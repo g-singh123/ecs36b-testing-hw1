@@ -2,8 +2,8 @@
 
 ## Things I Thought To Test
 1. The copy_array function
-2. Thing 2
-3. Thing 3
+2. The parse_args function
+3. The swap function
 ...
 
 ## Bugs
